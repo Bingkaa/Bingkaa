@@ -1,7 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Chuckie </h1>
-
-<h1>IM BINGKA :)</h1>
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Welcome to Bingka's Github </h1>
 <details open="">
 <summary>
  📔 GitHub Stats:
